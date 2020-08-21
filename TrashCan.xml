@@ -1,0 +1,7 @@
+<Diff file="Content/Map/Outposts/OutpostItems.xml" override="root" cleanup="true">
+    <add sel="//Item[@identifier='opdeco_trashcan']/ItemContainer/Containable">
+        <StatusEffect type="OnContaining" target="Contained">
+            <Remove/>
+        </StatusEffect>
+    </add>
+</Diff>

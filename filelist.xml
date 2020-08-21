@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Trash Cans Delete Items" path="Mods/Trash Cans Delete Items/filelist.xml" corepackage="false" gameversion="0.10.4.0">
+    <Item file="Mods/Trash Cans Delete Items/TrashCan.xml"/>
+</contentpackage>
